@@ -50,10 +50,6 @@ class parkingGarage():
             print("No overnight parking. Please leave by 10pm or face a fine.")
             self.leaveGarage()
             
-
-
-
-        
 occupancy = parkingGarage(50, 50, {})
 
 def purchaseTicket():
